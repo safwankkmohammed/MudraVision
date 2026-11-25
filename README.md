@@ -46,7 +46,8 @@ The application identifies four Bharatanatyam mudras:
 
 - `mudravision_app.py` – Main application.
 - `mudra_model1.keras` – Trained deep learning model.
-- `requirements.txt` – Required Python libraries.
+- `collect_dataset.py` – program for dataset collection
+- `dataset_training.py` – program for training the model
 
 ## How to Run
 
